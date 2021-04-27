@@ -1,5 +1,3 @@
-# Advanced-Paint-Tool
-
-[Download APT(current version)](http://sabaka.net)
+# Advanced Paint Tool [Download(current version)](http://sabaka.net)
 
 ## Menu Description:
