@@ -12,3 +12,6 @@
 - `Saved Colors` - pages with saved colors
     - `Save to page` - saves the current color to the page
     - `Delete color` - removes the color from the page (works as a switch)
+
+#### Donates
+- `PayPal` - Lavrik596@mail.ru
